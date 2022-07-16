@@ -1,5 +1,15 @@
 ## Readme<br>
-Information from original webpage, by WFG, at http://fgwang.blogspot.com/2021/12/blog-post.html , accessed 2022-02-03. English translation (by Google) is followed by original in Chinese.
+
+# Installation
+
+1. Download 全宋體 - FSung font.zip
+2a. On Windows 10 or later: Open the zip file, then right-click on each font, and choose "Install".
+2b. On Linux, extract to /usr/share/fonts .
+2c. On MacOs 10.3 or later: Open the zip file, click on each font to open it, then click "Install" at the bottom right-hand corner.
+
+# Information
+
+Information from original webpage, by [WFG](http://fgwang.blogspot.com/2021/12/blog-post.html) , accessed 2022-02-03. English translation (by Google) is followed by original in Chinese.
 
 
 <div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
