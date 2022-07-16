@@ -1,7 +1,7 @@
 # Readme<br>
 
 ## Installation
-
+<br>
 1. Download 全宋體 - FSung font.zip<br>
 2a. On Windows 10 or later: Open the zip file, then right-click on each font, and choose "Install".<br>
 2b. On Linux, extract to /usr/share/fonts .<br>
