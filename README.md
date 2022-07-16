@@ -1,5 +1,3 @@
-# Readme<br>
-
 ## Installation
 
  1. Download 全宋體 - FSung font.zip<br>
